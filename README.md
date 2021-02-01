@@ -1,5 +1,5 @@
 # MOCKUP-DESIGN
-In this project i showed three pnj files which are my own design, There is 0 plagarism in this project. I used adobe dimension,illustrator and photoshop to design these products.
+In this project i showed three pnj files which are my own design, There is no plagarism in this project. I used adobe dimension,illustrator and photoshop to design these products.
 
 # DIMENSION
 Dimension is used to give live shadows and 3d-aspect to the models. Some model mockups are also taken as .psd file from internet
